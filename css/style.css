@@ -17,6 +17,9 @@ html {
   display: flex;
   flex-direction: column; }
 
+.search-movie {
+  color: white; }
+
 .header {
   background-color: #111111;
   display: flex;
